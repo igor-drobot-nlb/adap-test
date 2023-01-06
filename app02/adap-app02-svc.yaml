@@ -9,3 +9,4 @@ spec:
     targetPort: 81
   selector:
     app: nginx
+    role: frontend
