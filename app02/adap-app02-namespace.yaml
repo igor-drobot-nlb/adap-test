@@ -1,0 +1,4 @@
+apiVerrsion: v1
+kind: Namespace
+metadata:
+  name: adap-app02
